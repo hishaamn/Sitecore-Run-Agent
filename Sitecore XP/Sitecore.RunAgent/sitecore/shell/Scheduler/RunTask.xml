@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<control xmlns:def="Definition" xmlns="http://schemas.sitecore.net/Visual-Studio-Intellisense">
+  <RunAgent>
+    <WizardForm CodeBeside="Sitecore.RunAgent.UIController.SchedulerAgentForm,Sitecore.RunAgent">
+
+      <WizardFormPage ID="SelectAgent" Header="Agent" Text="Select an agent. Click Next to run that agent.">
+        <WizardFormPadding>
+          <Border Padding="0px 0px 4px 0px">
+            <Literal Text='Select a thread priority here:'/>
+          </Border>
+          <Border Padding="0px 0px 4px 0px">
+            <Combobox ID="Priority" Width="100%"/>
+          </Border>
+          <Border Padding="0px 0px 4px 0px">
+            <Literal Text='Select a named agent here:'/>
+          </Border>
+          <Border Padding="0px 0px 4px 0px">
+            <Combobox ID="SelectedAgent" Width="100%"/>
+          </Border>
+        </WizardFormPadding>
+      </WizardFormPage>
+
+      <WizardFormProgressPage ID="Running" Header="Running Agent" Text="Please wait while running agent..." ActionText="Rebuilding...">
+        <Border ID="Status">
+        </Border>
+      </WizardFormProgressPage>
+
+      <WizardFormPage ID="LastPage">
+        <WizardFormPadding>
+          <Border GridPanel.Style="padding:0px 0px 16px 0px; font-weight:bold">
+            <Literal Text="The wizard has completed. Click Finish to close the wizard."/>
+          </Border>
+          <Border GridPanel.Style="padding:0px 0px 16px 0px; font-weight:bold">
+            <Literal ID="Result" ReadOnly="true" Width="100%" Height="100%" GridPanel.Height="100%" Visible="true"/>
+          </Border>
+        </WizardFormPadding>
+      </WizardFormPage>
+
+    </WizardForm>
+  </RunAgent>
+</control>

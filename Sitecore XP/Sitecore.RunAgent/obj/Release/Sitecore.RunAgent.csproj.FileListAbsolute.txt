@@ -1,0 +1,18 @@
+c:\users\mnamooya\documents\visual studio 2013\Projects\Sitecore.RunAgent\Sitecore.RunAgent\bin\Release\Sitecore.RunAgent.dll
+c:\users\mnamooya\documents\visual studio 2013\Projects\Sitecore.RunAgent\Sitecore.RunAgent\bin\Release\Sitecore.RunAgent.pdb
+c:\users\mnamooya\documents\visual studio 2013\Projects\Sitecore.RunAgent\Sitecore.RunAgent\bin\Release\Sitecore.Client.dll
+c:\users\mnamooya\documents\visual studio 2013\Projects\Sitecore.RunAgent\Sitecore.RunAgent\bin\Release\Sitecore.Kernel.dll
+c:\users\mnamooya\documents\visual studio 2013\Projects\Sitecore.RunAgent\Sitecore.RunAgent\bin\Release\Sitecore.Logging.dll
+c:\users\mnamooya\documents\visual studio 2013\Projects\Sitecore.RunAgent\Sitecore.RunAgent\bin\Release\Newtonsoft.Json.dll
+c:\users\mnamooya\documents\visual studio 2013\Projects\Sitecore.RunAgent\Sitecore.RunAgent\obj\Release\Sitecore.RunAgent.csprojResolveAssemblyReference.cache
+c:\users\mnamooya\documents\visual studio 2013\Projects\Sitecore.RunAgent\Sitecore.RunAgent\obj\Release\Sitecore.RunAgent.dll
+c:\users\mnamooya\documents\visual studio 2013\Projects\Sitecore.RunAgent\Sitecore.RunAgent\obj\Release\Sitecore.RunAgent.pdb
+C:\Users\mnamooya\Documents\Visual Studio 2015\Projects\Sitecore.RunAgent\Sitecore XP\Sitecore.RunAgent\bin\Release\Sitecore.RunAgent.dll
+C:\Users\mnamooya\Documents\Visual Studio 2015\Projects\Sitecore.RunAgent\Sitecore XP\Sitecore.RunAgent\bin\Release\Sitecore.RunAgent.pdb
+C:\Users\mnamooya\Documents\Visual Studio 2015\Projects\Sitecore.RunAgent\Sitecore XP\Sitecore.RunAgent\bin\Release\Sitecore.Client.dll
+C:\Users\mnamooya\Documents\Visual Studio 2015\Projects\Sitecore.RunAgent\Sitecore XP\Sitecore.RunAgent\bin\Release\Sitecore.Kernel.dll
+C:\Users\mnamooya\Documents\Visual Studio 2015\Projects\Sitecore.RunAgent\Sitecore XP\Sitecore.RunAgent\bin\Release\Sitecore.Logging.dll
+C:\Users\mnamooya\Documents\Visual Studio 2015\Projects\Sitecore.RunAgent\Sitecore XP\Sitecore.RunAgent\bin\Release\Newtonsoft.Json.dll
+C:\Users\mnamooya\Documents\Visual Studio 2015\Projects\Sitecore.RunAgent\Sitecore XP\Sitecore.RunAgent\obj\Release\Sitecore.RunAgent.csprojResolveAssemblyReference.cache
+C:\Users\mnamooya\Documents\Visual Studio 2015\Projects\Sitecore.RunAgent\Sitecore XP\Sitecore.RunAgent\obj\Release\Sitecore.RunAgent.dll
+C:\Users\mnamooya\Documents\Visual Studio 2015\Projects\Sitecore.RunAgent\Sitecore XP\Sitecore.RunAgent\obj\Release\Sitecore.RunAgent.pdb
